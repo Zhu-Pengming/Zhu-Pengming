@@ -11,29 +11,29 @@
     high-quality mobile applications. I am particularly interested in learning more about the implementation of 
     app monetization strategies to make apps commercially successful.
 
-  ## How to Reach Me
-  📫 Feel free to reach out to me via email at: 1195285@wku.edu.cn
+  ## How to Reach Me 📫
+    Feel free to reach out to me via email at: 1195285@wku.edu.cn
 
-  ## Fun Fact
-  ⚡ Fun fact about me: I am always up for adventure and love exploring new places whenever I get the chance!
+  ## Fun Fact ⚡
+    Fun fact about me: I am always up for adventure and love exploring new places whenever I get the chance!
 
-  ## Skills
-  💬 - Android Development
+  ## Skills 💬 
+    - Android Development
   
-      - Java
+    - Java
       
-      - App Monetization
+    - App Monetization
       
-      - UI/UX Design
+    - UI/UX Design
       
 
-  ## Projects
-  🌱  - [Project 1: Plant Growth Tracker](https://github.com/Zhu-Pengming-Tom/Plant-Growth-Tracker): 
-   An app is a tool designed to help users track and record the growth of their plants, making it easy to monitor changes and identify any potential problems. With this app, you can easily keep track of your plant's growth, visualize growth trends, and compare current sizes to previous measurements.
+  ## Projects 🌱
+    - [Project 1: Plant Growth Tracker](https://github.com/Zhu-Pengming-Tom/Plant-Growth-Tracker): 
+     An app is a tool designed to help users track and record the growth of their plants, making it easy to monitor changes and identify any potential problems. With this app, you can easily keep track of your plant's growth, visualize growth trends, and compare current sizes to previous measurements.
 
-  ## Education
-  🤔  - Bachelor's Degree in Computer Science, Wenzhou-Kean University, junior.
-      - Relevant coursework: Mobile App Development, Software Engineering, Data Structures, Algorithms
+  ## Education 🤔
+    - Bachelor's Degree in Computer Science, Wenzhou-Kean University, Junior.
+      
 
 
 
