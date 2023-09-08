@@ -30,8 +30,7 @@
       
 
   ## Projects 🌱
-    [Project 1](https://github.com/Zhu-Pengming-Tom/Plant-Growth-Tracker)
-     An app is a tool designed to help users track and record the growth of their plants, making it easy to monitor changes and identify any potential problems. With this app, you can easily keep track of your plant's growth, visualize growth trends, and compare current sizes to previous measurements.
+    
 
   ## Education 🤔
     - Bachelor's Degree in Computer Science, Wenzhou-Kean University, Junior.
