@@ -14,7 +14,7 @@
     app monetization strategies to make apps commercially successful.
 
   ## How to Reach Me 📫
-    Feel free to reach out to me via email at: 1195285@wku.edu.cn
+    Feel free to reach out to me via email at: 2100200862@qq.com
 
   ## Fun Fact ⚡
     I am always up for adventure and love exploring new places whenever I get the chance!
