@@ -1,5 +1,5 @@
 
-### Hi, I'm Zhu Pengming (Tom) 👋
+### Hi, I'm Tom 👋
 
 ## About Me 🚀
 
