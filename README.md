@@ -3,31 +3,25 @@
 
 ## About Me 🚀
 
-I am a dynamic Computer Science major at Wenzhou-Kean University, deeply engaged in Android development and its applications in real-world scenarios. My experience spans from UI design to robust app architecture, and I thrive in team settings, demonstrated by multiple awards in hackathons. I am passionate about leveraging new technologies to craft intuitive and efficient mobile applications that enhance user experiences.
+I am a dynamic Computer Science major at Wenzhou-Kean University, deeply engaged in Android development and its applications in real-world 
+
+scenarios. My experience spans from UI design to robust app architecture, and I thrive in team settings, demonstrated by multiple awards in 
+
+hackathons. I am passionate about leveraging new technologies to craft intuitive and efficient mobile applications that enhance user experiences.
 
 ## Current Focus 🔭
 
-I am currently focused on deepening my Android development skills, with a special interest in app architecture and machine learning applications. My recent projects include developing educational and plant care apps, which are both live and receiving positive feedback on Google Play.
+I am currently focused on deepening my Android development skills, with a special interest in app architecture and machine learning applications.
 
-## How to Reach Me 📫
+My recent projects include developing educational and plant care apps, which are both live and receiving positive feedback on Google Play.
 
-Feel free to reach out to me via email at: [zhupengming81@gmail.com](mailto:zhupengming81@gmail.com)
+ ## Fun Fact 🎉
+ 
+ I enjoy trail running and have recently developed an interest in squash, exploring new ways to stay active and energized.
 
-## Skills 💬 
+ ## How to Reach Me 📫
 
-- Proficient in Java and Android Development
-- Experienced with PPT, Word, Excel, and other office tools
-- Effective communication and teamwork skills
+ Feel free to reach out to me via email at: [zhupengming81@gmail.com](mailto:zhupengming81@gmail.com)
 
-## Projects 🌱
 
-- **Hackathon**: Developed a food delivery and lost & found platform; received the Most Interesting Team Award.
-- **Green Growth App**: A tracker for monitoring plant health, currently available on Google Play.
-- **DP Startup**: Developed an Android app aimed at learners preparing for math competitions.
-- **Flora-Talks**: Worked on model architecture and dataset preparation for plant care solutions using AI.
-- **草悟暮语 App (Plant)**: Developed an app for plant identification and care, focusing on text classification and database architecture.
-
-## Education 🤔
-
-- Pursuing a Bachelor's Degree in Computer Science at Wenzhou-Kean University, expected to graduate in June 2025.
 
