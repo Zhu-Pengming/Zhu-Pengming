@@ -31,4 +31,3 @@ Feel free to reach out to me via email at: [zhupengming81@gmail.com](mailto:zhup
 
 - Pursuing a Bachelor's Degree in Computer Science at Wenzhou-Kean University, expected to graduate in June 2025.
 
-这样的个人简介更加全面地展示了您的教育背景、技能以及项目经验，同时保持了个人的风格和专业性。
