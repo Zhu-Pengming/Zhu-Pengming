@@ -9,7 +9,6 @@ hackathons. I am passionate about leveraging new technologies to craft intuitive
 ## Current Focus 🔭
 
 I am currently focused on deepening my Android development skills, with a special interest in app architecture and machine learning applications.
-
 My recent projects include developing educational and plant care apps, which are both live and receiving positive feedback on Google Play.
 
  ## Fun Fact 🎉
