@@ -3,10 +3,7 @@
 
 ## About Me 🚀
 
-I am a dynamic Computer Science major at Wenzhou-Kean University, deeply engaged in Android development and its applications in real-world 
-
-scenarios. My experience spans from UI design to robust app architecture, and I thrive in team settings, demonstrated by multiple awards in 
-
+I am a dynamic Computer Science major at Wenzhou-Kean University, deeply engaged in Android development and its applications in real-world scenarios. My experience spans from UI design to robust app architecture, and I thrive in team settings, demonstrated by multiple awards in 
 hackathons. I am passionate about leveraging new technologies to craft intuitive and efficient mobile applications that enhance user experiences.
 
 ## Current Focus 🔭
