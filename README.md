@@ -13,7 +13,7 @@ My recent projects include developing educational and plant care apps, which are
 
  ## Fun Fact 🎉
  
- I enjoy trail running and have recently developed an interest in squash, exploring new ways to stay active and energized.
+ I enjoy trail running and have recently developed an interest in squash.
 
  ## How to Reach Me 📫
 
