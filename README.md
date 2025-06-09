@@ -1,23 +1,9 @@
-
-### Hi, I'm Tom 👋
-
+Hi, I'm Tom 👋
 ## About Me 🚀
-
-I am a dynamic Computer Science major at Wenzhou-Kean University, deeply engaged in Android development and its applications in real-world scenarios. My experience spans from UI design to robust app architecture, and I thrive in team settings, demonstrated by multiple awards in 
-hackathons. I am passionate about leveraging new technologies to craft intuitive and efficient mobile applications that enhance user experiences.
-
+I am a Master of Electronic and Computer Engineering from Northeastern University in the United States, specializing in Android development and its practical applications.
 ## Current Focus 🔭
-
-I am currently focused on deepening my Android development skills, with a special interest in app architecture and machine learning applications.
-My recent projects include developing educational and plant care apps, which are both live and receiving positive feedback on Google Play.
-
- ## Fun Fact 🎉
- 
- I enjoy trail running and have recently developed an interest in squash.
-
- ## How to Reach Me 📫
-
- Feel free to reach out to me via email at: [zhupengming81@gmail.com](mailto:zhupengming81@gmail.com)
-
-
-
+Currently, I am dedicated to enhancing my Android development skills, particularly showing a strong interest in application architecture and machine learning applications.
+## Interesting Facts 🎉
+I enjoy long-distance running and recently became interested in squash.
+## How to Contact Me 📧
+You can contact me via email, with the email address: [zhupengming81@gmail.com](mailto:zhupengming81@gmail.com)
